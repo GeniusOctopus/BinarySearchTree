@@ -1,0 +1,1 @@
+program to genrate a binary search tree with random nodes. you also get a quick and dirty graphical output of the tree.
